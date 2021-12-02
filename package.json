@@ -1,6 +1,6 @@
 {
 	"name": "appbee-sapper-toolbelt",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Tool to build appbee within sapper when changes happen",
 	"files": [
 		"dist"
